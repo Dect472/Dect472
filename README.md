@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dect
-- 👀 I’m interested in problem solving / C++
-- 🌱 I’m currently learning Git, C++, Discord bot(by JS)
+- 👀 I’m interested in problem solving / C++ / AWS
+- 🌱 I’m currently learning Git, C++, Discord bot(by JS), AWS EC2/Lambda
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
